@@ -1,0 +1,24 @@
+lliurex-tts (0.4) xenial; urgency=high
+
+  * Fixed bug in accents into phrases
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Wed, 21 Jun 2017 14:09:35 +0200
+
+lliurex-tts (0.3) xenial; urgency=high
+
+  * Added -s (silent mode) option
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Thu, 18 May 2017 14:27:40 +0200
+
+lliurex-tts (0.2) xenial; urgency=high
+
+  * Added festival capabilities too for catalan language
+  * Modified script to store wav file instead of play it
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Mon, 15 May 2017 13:56:56 +0200
+
+lliurex-tts (0.1) xenial; urgency=high
+
+  * Initial release.
+
+ -- Jose A. Murcia <joamuran@gmail.com>  Fri, 11 May 2017 12:46:34 +0100

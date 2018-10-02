@@ -1,0 +1,15 @@
+Source: lliurex-tts
+Section: misc
+Priority: optional
+Maintainer: LliureX Team <lliurex@lliurex.net>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://www.lliurex.net
+
+Package: lliurex-tts
+Architecture: all
+Depends: ${misc:Depends}, xsel, libnotify-bin, libttspico0, libttspico-utils, libttspico-data, libwww-perl, libwww-mechanize-perl, libhtml-tree-perl, sox, libsox-fmt-mp3, festival, festvox-ca-ona-hts (>= 1.3-1)
+Description: LliureX TTS
+ Some text to speech for
+ LliureX.
+ 
