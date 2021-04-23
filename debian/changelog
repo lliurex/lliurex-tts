@@ -1,3 +1,9 @@
+lliurex-tts (0.8) focal; urgency=medium
+
+  * Focal packaging
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Fri, 23 Apr 2021 14:03:58 +0200
+
 lliurex-tts (0.8) bionic; urgency=medium
 
   * Initial release for bionic
